@@ -3,4 +3,5 @@ A knight's tour is a sequence of moves of a knight on a chessboard such that the
 (https://en.wikipedia.org/wiki/Knight%27s_tour)
 
 
-c
+To compile: run make test in the command line (linux distributions).
+Run the created .out file to test.
